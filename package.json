@@ -1,5 +1,5 @@
 {
-  "name": "battleship",
+  "name": "javascript-project-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedrodinism/Battleship.git"
+    "url": "git+https://github.com/pedrodinism/javascript-project-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/pedrodinism/Battleship/issues"
+    "url": "https://github.com/pedrodinism/javascript-project-starter/issues"
   },
-  "homepage": "https://github.com/pedrodinism/Battleship#readme",
+  "homepage": "https://github.com/pedrodinism/javascript-project-starter#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.29.7",
     "css-loader": "^7.1.5",
